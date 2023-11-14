@@ -1,0 +1,1 @@
+# crop-predection-disease-with-deep-learning-using-pesticdes
